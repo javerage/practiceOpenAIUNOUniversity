@@ -1,0 +1,7492 @@
+[
+  {
+    "nombre": "CAJONERA",
+    "folio": "OFI01",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "209.000",
+    "precio_contado": "1500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 MTS",
+    "folio": "OFI2",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2887.000",
+    "precio_contado": "2300.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "HAMACA 6 HILOS",
+    "folio": "OFI04",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "30.000",
+    "precio_contado": "900.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV 32 HISENSE",
+    "folio": "OFI05",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "78.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "10500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROSS 11 P",
+    "folio": "ofi06",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "83.000",
+    "precio_contado": "10000.00",
+    "precio_credito": "19500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG 32\"",
+    "folio": "OFI07",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "81.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "10500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA ACROSS 10 kg",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "70.000",
+    "precio_contado": "5800.00",
+    "precio_credito": "9300.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO MAN",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1919.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "2500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13 KG",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA T-FAL",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "94.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BOLSO DE DAMA",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "48.000",
+    "precio_contado": "200.00",
+    "precio_credito": "400.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ARMARIO NEGRO",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "150.000",
+    "precio_contado": "2800.00",
+    "precio_credito": "4700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TINA",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "2314.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "4200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ESTUFA ACROSS",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "9200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "477.000",
+    "precio_contado": "250.00",
+    "precio_credito": "490.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "SILLA INF HERRERIA",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "45.000",
+    "precio_contado": "700.00",
+    "precio_credito": "1300.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "LARA PRACTIC",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "269.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1750.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA INFANTIL",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "372.000",
+    "precio_contado": "500.00",
+    "precio_credito": "900.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "MINI SPLIT 12",
+    "folio": "AIR004",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT FROZEN 12",
+    "folio": "AIR23",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT 12",
+    "folio": "AIR004",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT FROZEN 12",
+    "folio": "AIR23",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "AIRE ACONDICIONADO PRIME 12 000 BTS 110",
+    "folio": "2046",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "5500.00",
+    "enganche": "1000.00"
+  },
+  {
+    "nombre": "VENTILADOR PEDESTAL MAN",
+    "folio": "DES01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "86.000",
+    "precio_contado": "1500.00",
+    "precio_credito": "2100.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR PISO NAVIA",
+    "folio": "DESO4",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "197.000",
+    "precio_contado": "1000.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BOTE",
+    "folio": "DESC01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "254.000",
+    "precio_contado": "1000.00",
+    "precio_credito": "1850.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ESQUINERO ANAQUEL",
+    "folio": "DESC04",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "265.000",
+    "precio_contado": "999.00",
+    "precio_credito": "1750.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ESQUINERO CHICO",
+    "folio": "BOD03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "682.000",
+    "precio_contado": "520.00",
+    "precio_credito": "1250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "ESQUINERO CHICO",
+    "folio": "BOD03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "682.000",
+    "precio_contado": "520.00",
+    "precio_credito": "1250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "PANTALLA 32 ZMARTECH",
+    "folio": "01TV",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "103.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 9 P",
+    "folio": "SIMN",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "224.000",
+    "precio_contado": "1.00",
+    "precio_credito": "14700.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PANTALLA 32 ZMARTECH",
+    "folio": "01TV",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "103.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DUNA",
+    "folio": "SI01",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "48.000",
+    "precio_contado": "1.00",
+    "precio_credito": "634.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "tv 43 pulgadas",
+    "folio": "tv34",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1.00",
+    "precio_credito": "15200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "lavadora across 2 tinas 16 kg",
+    "folio": "lav02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "2.00",
+    "precio_credito": "12000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20",
+    "folio": "M1200001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "563.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ARMARIO COMBINADO ",
+    "folio": "arm2",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "489.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV ZMARTECH 22\"",
+    "folio": "TV07",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "5850.00",
+    "precio_credito": "1.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA INFANTIL 4 CAJONES",
+    "folio": "CAJ0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "366.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MABE 11 KG",
+    "folio": "LAVA02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DE COLOR GDE",
+    "folio": "arm6",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "179.000",
+    "precio_contado": "2.00",
+    "precio_credito": "3800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERO MODELO 300",
+    "folio": "DESC06",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "170.000",
+    "precio_contado": "500.00",
+    "precio_credito": "9950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MABE 13 KG",
+    "folio": "MABE04",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "105.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2470.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TINA GRANDE",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "96.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2100.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 10 P",
+    "folio": "refr43",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ARMARIO PEQUEÑO",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "328.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2600.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ROPERITO JUMBO INF",
+    "folio": "ROP98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "230.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "VANITY",
+    "folio": "VANI01",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13 KG",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA ACROSS 13 KG",
+    "folio": "LAV02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SMART TV 32",
+    "folio": "SMART TV",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10500.00",
+    "enganche": "400.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20",
+    "folio": "M1200001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "563.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "PUPITRE",
+    "folio": "MAD",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "97.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1350.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16K",
+    "folio": "LAVA01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1.00",
+    "precio_credito": "11500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TRICICLO MERCURIO NORMAL",
+    "folio": "TRIC02",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "7900.00",
+    "precio_credito": "7900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINICOMPONENTE PANASONIC",
+    "folio": "MINO2",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "5.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COLCHON",
+    "folio": "COL01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "290.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR SMARTECH",
+    "folio": "SMAR02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1750.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TV SMART",
+    "folio": "TV02",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ANTECOMEDOR",
+    "folio": "COME01",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "13800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BICICLETA MERCURIO DAMA",
+    "folio": "BICI02",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 10 PIES",
+    "folio": "REFRI05",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "21.000",
+    "precio_contado": "1.00",
+    "precio_credito": "18500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV 43",
+    "folio": "TV09",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "15500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV SMARTECH 22\"",
+    "folio": "01",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "7.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5450.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER ",
+    "folio": "LICUA02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "23.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CAMA COMPLETA",
+    "folio": "CAMA1",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "277.000",
+    "precio_contado": "1.00",
+    "precio_credito": "14000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA INFANTIL",
+    "folio": "SIL",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "88.000",
+    "precio_contado": "1.00",
+    "precio_credito": "350.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "TV 43\"",
+    "folio": "01",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "15500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA BREXIA",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "157.000",
+    "precio_contado": "1.00",
+    "precio_credito": "450.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "BOCINA 15 ZMARTECH",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5500.00",
+    "enganche": "250.00"
+  },
+  {
+    "nombre": "TV SMART LG 50\"",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "34500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "2.00",
+    "precio_credito": "17800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO ADULTO",
+    "folio": "01",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV SMART SAMSUNG 60\"",
+    "folio": "21",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1.00",
+    "precio_credito": "22500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA 15 ZMARTECH",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5500.00",
+    "enganche": "250.00"
+  },
+  {
+    "nombre": "BOCINA 15 KAISER",
+    "folio": "0",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR WIRPOOL 9\"",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "198.000",
+    "precio_contado": "1.00",
+    "precio_credito": "18500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT FROZEN 12",
+    "folio": "AIR23",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD 200-300",
+    "folio": "ROP",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "38.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "OLLAS NUPCIAL",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1150.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "VAPORERA ",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "20.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1950.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLAS CONVEXA",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1.00",
+    "precio_credito": "980.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TV HISENSE 40\" SMART",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "14900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 12",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "1.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TRICICLO MERCURIO",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA EASY 11 KG ",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "1.00",
+    "precio_credito": "6700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV SONY 32\"",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10500.00",
+    "enganche": "400.00"
+  },
+  {
+    "nombre": "TV ZMARTECH",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8100.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COBERTOR PROVIDENCIA",
+    "folio": "C",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1.00",
+    "precio_credito": "980.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "VENTILADOR CONFOR",
+    "folio": "222",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1650.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "SALA ISABELA",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "16500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COBERTOR",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "7.000",
+    "precio_contado": "1.00",
+    "precio_credito": "600.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ROPERO ROMANO",
+    "folio": "2",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "7.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COBERTOR RASCHEL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "1.00",
+    "precio_credito": "980.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TV 40\" AURUS",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "11500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV 40\" ZMARTECH",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "MICROONDAS",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3300.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DE SERVICIO",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "283.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1050.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "MESA DE SERVICIO",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "283.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1050.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "BURRO DE PLANCHAR",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "1.00",
+    "precio_credito": "600.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "ESTUFA MABE 4 QUEMADORES",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "13.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO MAN",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1919.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "2500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA REDONDA",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "45.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1500.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "LAVADORA ACROSS 8 KG 2 TINAS",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TANQUE DE GAS",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5450.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CONGELADOR MABE",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "18700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BANCA JARDINERA",
+    "folio": "",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "299.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TINA 700 LT",
+    "folio": "TIN0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "197.000",
+    "precio_contado": "2200.00",
+    "precio_credito": "4200.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "MESA DUNA GDE",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "121.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3050.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA DUNA PLASTIMETAL",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLA ARROZERA",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "239.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA ACROSS 16K",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "181.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CAJONERA 5 CAJONES",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "187.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TOCADOR VANITY",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "211.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ZAPATERO HOLLYWOOD",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "231.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA 10K",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "195.000",
+    "precio_contado": "1.00",
+    "precio_credito": "10900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "DVD LG",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERO MADERA",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "182.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "AIRE ACONDICIONADO MABE",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1.00",
+    "precio_credito": "13900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG 49\"",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "1.00",
+    "precio_credito": "25100.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INF CON ESPEJO",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "377.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20",
+    "folio": "M1200001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "563.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BASE DE CAMA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5100.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA MADERA 1.20",
+    "folio": "MMAD0001",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "3200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA 1.50",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "188.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ESTUFA IEM 4 QUEMADORES",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "7.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV HYUNDAI",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA 1000 WTS",
+    "folio": "0",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "249.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "PLANCHA OSTER ",
+    "folio": "D",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1.00",
+    "precio_credito": "990.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR DE TECHO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1350.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR DE TECHO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1350.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MIDEA 13 K",
+    "folio": "0",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "299.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9200.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COLCHON SPRING AIR",
+    "folio": "A",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "21.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ESTUFA MABE 6 QUEMADORES",
+    "folio": null,
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "15600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#000000",
+    "stock": "-1.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV 50",
+    "folio": "0",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "240.000",
+    "precio_contado": "1.00",
+    "precio_credito": "23900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "HAMACA 8 HILOS",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "292.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2100.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CENTRO DE ENTRETENIMIENTO",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VITRINA",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "1.00",
+    "precio_credito": "11500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD. TICUL",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "296.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT DAEWO",
+    "folio": "0",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "297.000",
+    "precio_contado": "1.00",
+    "precio_credito": "23000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13 KG",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "5000.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA EASY 13 KG",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "7500.00",
+    "precio_credito": "7500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO CICLON",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "1450.00",
+    "precio_credito": "1450.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER ",
+    "folio": "LICUA02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "23.000",
+    "precio_contado": "1.00",
+    "precio_credito": "2700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 MTS",
+    "folio": "OFI2",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2887.000",
+    "precio_contado": "2300.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16K",
+    "folio": "LAVA01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1.00",
+    "precio_credito": "11500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERO NOLO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "160.000",
+    "precio_contado": "8000.00",
+    "precio_credito": "8000.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV SMARTECH DE 32\"",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "181.000",
+    "precio_contado": "7900.00",
+    "precio_credito": "7900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLAS ARROZERAS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "30.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLA ARROZERA",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "239.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 MTS",
+    "folio": "OFI2",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2887.000",
+    "precio_contado": "2300.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA VERONA 1.80",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "294.000",
+    "precio_contado": "2900.00",
+    "precio_credito": "2900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA ACROS 15 KG",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "20.000",
+    "precio_contado": "13200.00",
+    "precio_credito": "13200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAMA Y COLCHON",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "14200.00",
+    "precio_credito": "14200.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 9 P",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "45.000",
+    "precio_contado": "13900.00",
+    "precio_credito": "13900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80",
+    "folio": "M180001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON",
+    "folio": "COL01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "290.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO INF.",
+    "folio": "OFI03",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "7130.000",
+    "precio_contado": "2000.00",
+    "precio_credito": "3700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERITO JUMBO INF",
+    "folio": "ROP98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "230.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ROPERITO JUMBO INF",
+    "folio": "ROP98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "230.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "ROPERITO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "282.000",
+    "precio_contado": "2900.00",
+    "precio_credito": "2900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV SAMSUNG 32\"",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "47.000",
+    "precio_contado": "10200.00",
+    "precio_credito": "10200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "VENTILADOR NAVIA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "197.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COMODA INF. PRINCESA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "2800.00",
+    "precio_credito": "2800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "BICICLETA RODADA 24",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "11.000",
+    "precio_contado": "5600.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 25 W",
+    "folio": "D",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "4.00",
+    "precio_credito": "4800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "PANTALLA TAURUS 32\" ZMART",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "9500.00",
+    "precio_credito": "9500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA BLANCA POLICAR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "36.000",
+    "precio_contado": "350.00",
+    "precio_credito": "350.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "MESA BLANCA POLICAR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "50.000",
+    "precio_contado": "2650.00",
+    "precio_credito": "2650.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 MTS VERONA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "2650.00",
+    "precio_credito": "2650.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV SONY 32\" M:KDL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "10500.00",
+    "precio_credito": "10500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TOCADOR INF",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON Y BASE CAMA ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "10800.00",
+    "precio_credito": "10800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV 32\" LED TAURUS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "7900.00",
+    "precio_credito": "7900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TOCADOR DE MADERA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4200.00",
+    "precio_credito": "4200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAVADORA ACROS 14 KG",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "8250.00",
+    "precio_credito": "8250.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "DVD",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "1250.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA 2016",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "38.000",
+    "precio_contado": "350.00",
+    "precio_credito": "350.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "ESTUFA ACROSS 4 QUEMADORES",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "DVD 2019",
+    "folio": "GS",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 10 P",
+    "folio": "refr43",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 11\"",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "1.00",
+    "precio_credito": "21500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CORTINAS 2000",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "450.00",
+    "precio_credito": "450.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "MICROONDAS",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3300.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MABE 16 KG",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "12000.00",
+    "precio_credito": "12000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO MAN",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1919.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "2500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 14\" ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "47.000",
+    "precio_contado": "17500.00",
+    "precio_credito": "17500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV ZMARTECH 50\"",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "17850.00",
+    "precio_credito": "17850.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1 MT",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "1500.00",
+    "precio_credito": "1500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1 MT",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "1500.00",
+    "precio_credito": "1500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON Y BASE CAMA ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "10800.00",
+    "precio_credito": "10800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TRASTERO METALICO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "2300.00",
+    "precio_credito": "2300.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MAQUINA SINGER",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "299.000",
+    "precio_contado": "1.00",
+    "precio_credito": "13500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BICICLETA MERCURIO",
+    "folio": "01BIC",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "289.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ",
+    "folio": null,
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "2.00",
+    "precio_credito": "17800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BICICLETA DAMA",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "297.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "PANTALLA TAURUS 32\" ZMART",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "9500.00",
+    "precio_credito": "9500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "PANTALLA 32\" LG SMARTV",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "24.000",
+    "precio_contado": "12800.00",
+    "precio_credito": "12800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COMEDOR DE LUJO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "11.000",
+    "precio_contado": "13500.00",
+    "precio_credito": "13500.00",
+    "enganche": "400.00"
+  },
+  {
+    "nombre": "SILLA DE PLAYA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "42.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA DE PLAYA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "42.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CAMA MATRIMONIAL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "8500.00",
+    "precio_credito": "8500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ESTUFA 6 QUEMADORES",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "298.000",
+    "precio_contado": "0.00",
+    "precio_credito": "13900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "477.000",
+    "precio_contado": "250.00",
+    "precio_credito": "490.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TELEVISOR HISENSE 40\" SMART",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "14900.00",
+    "precio_credito": "14900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV 32\"SAMSUNG\"",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "10200.00",
+    "precio_credito": "10200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESPEJO DE PARED CON LUCES",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "3250.00",
+    "precio_credito": "3250.00",
+    "enganche": "250.00"
+  },
+  {
+    "nombre": "MINICOMPONETE LG M-4450",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA MARCA AURUS",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA 2011",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "250.00",
+    "precio_credito": "250.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "SILLA DE MAD.",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "8.000",
+    "precio_contado": "380.00",
+    "precio_credito": "380.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA PEQUEÑA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "260.00",
+    "precio_credito": "260.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "BICICLETA DE CABALLERO",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "298.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6350.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV 32 LED TAURUS ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "7900.00",
+    "precio_credito": "7900.00",
+    "enganche": "400.00"
+  },
+  {
+    "nombre": "LAVADORA ACROS 12 KG",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "7500.00",
+    "precio_credito": "7500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA BLANCA POLICAR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "36.000",
+    "precio_contado": "350.00",
+    "precio_credito": "350.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "TOCADOR 3 LUNAS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "5900.00",
+    "precio_credito": "5900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ROPERO TICUL",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "8500.00",
+    "precio_credito": "8500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV 22\"",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CAMA COMPLETA",
+    "folio": "CAMA1",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "277.000",
+    "precio_contado": "1.00",
+    "precio_credito": "14000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV 32\"",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "293.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV 20\"",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "299.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 13 P",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "15900.00",
+    "precio_credito": "15900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "CAJONERA INFANTIL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "264.000",
+    "precio_contado": "1990.00",
+    "precio_credito": "1990.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PEINADOR CLAUDIA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "1.00",
+    "precio_credito": "6900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COLCHON SPRING AIR",
+    "folio": "A",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "21.000",
+    "precio_contado": "1.00",
+    "precio_credito": "7500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INF MADERA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "33.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 10 PIES",
+    "folio": "REFRI05",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "21.000",
+    "precio_contado": "1.00",
+    "precio_credito": "18500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA BOMBIN",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1950.00",
+    "precio_credito": "1950.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESQUINERO ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "1250.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA USADA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "330.00",
+    "precio_credito": "330.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "ROPERO MODELO 300",
+    "folio": "DESC06",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "170.000",
+    "precio_contado": "500.00",
+    "precio_credito": "9950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA VERONA  1.20",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1950.00",
+    "precio_credito": "1950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO JUMBO INF",
+    "folio": "ROP98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "230.000",
+    "precio_contado": "1.00",
+    "precio_credito": "3350.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TV PHILIPS ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "15700.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TELEVISOR HISENSE SMART TV 32",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "9900.00",
+    "precio_credito": "9900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BICICLETA MERCURIO RODADA 26",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "7950.00",
+    "precio_credito": "7950.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "MINICOMPONENTE ",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "298.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA BLANCA",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "483.000",
+    "precio_contado": "600.00",
+    "precio_credito": "600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COMODA INF MADERA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "33.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA 2 ESPEJOS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "6600.00",
+    "precio_credito": "6600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 10 P",
+    "folio": "refr43",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "32.000",
+    "precio_contado": "1.00",
+    "precio_credito": "12500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESTUFA",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "297.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DE SERVICIO",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "283.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1050.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "TOCADOR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "9500.00",
+    "precio_credito": "9500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MABE 10KG",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "10400.00",
+    "precio_credito": "10400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DE COLOR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "154.000",
+    "precio_contado": "4700.00",
+    "precio_credito": "4700.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PANTALLA HISENSE",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "17.000",
+    "precio_contado": "10500.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "8 LAMINAS DE 4.80",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "16600.00",
+    "precio_credito": "16600.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "14 LAMINAS DE 4.27 MTS #26",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "16200.00",
+    "precio_credito": "16200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "6 LAMINAS DE 6 MTS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "8900.00",
+    "precio_credito": "8900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ROPERO DE COLOR ",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "48.000",
+    "precio_contado": "6700.00",
+    "precio_credito": "6700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "8 LAMINAS DE 4.88",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "8960.00",
+    "precio_credito": "8960.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV SONY 32\" M:KDL\t",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "7.000",
+    "precio_contado": "10500.00",
+    "precio_credito": "10500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "477.000",
+    "precio_contado": "250.00",
+    "precio_credito": "490.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "COMODA 2 PUERTAS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "5450.00",
+    "precio_credito": "5450.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAMINA ",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1020.00",
+    "precio_credito": "1020.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV 40 \" ZMARTV\t",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "12800.00",
+    "precio_credito": "12800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "TV 14\" DAEWO\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2700.00",
+    "precio_credito": "2700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA MABE 11 KG",
+    "folio": "LAVA02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "1.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BICICLETA BLACK PANTER\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "3800.00",
+    "precio_credito": "3800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "60 METROS DE PISO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "20500.00",
+    "precio_credito": "20500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PANTALLA 32\" HYNDAI",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "12500.00",
+    "precio_credito": "12500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "CAMA MATRIMONIAL ENTERA",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "13200.00",
+    "precio_credito": "13200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "12 LAMINAS 6.10 METROS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "22600.00",
+    "precio_credito": "22600.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAMINA 5.5 MTS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "5.000",
+    "precio_contado": "9700.00",
+    "precio_credito": "9700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "PISO 10 CAJAS 1.80MTROS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "8900.00",
+    "precio_credito": "8900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "3 CAJAS DE PISO\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "2600.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA BLANCAA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "50.000",
+    "precio_contado": "600.00",
+    "precio_credito": "600.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "SILLA BLANCAA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "50.000",
+    "precio_contado": "600.00",
+    "precio_credito": "600.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "BOCINA 15 KAISER",
+    "folio": "0",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "6 LAMINAS 6.10",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "7320.00",
+    "precio_credito": "7320.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "JGO DE SALA\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "11050.00",
+    "precio_credito": "11050.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "BICICLETA INF. MOD 2014\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "10.000",
+    "precio_contado": "2900.00",
+    "precio_credito": "2900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "10 LAMINAS 4.88\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "14350.00",
+    "precio_credito": "14350.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAVADORA EASY 11 KG ",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "1.00",
+    "precio_credito": "6700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ROPERO CON DIBUJOS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "7800.00",
+    "precio_credito": "7800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESPEJO VANITY\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "5850.00",
+    "precio_credito": "5850.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "5 LAMINAS 44.85 2023\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "5400.00",
+    "precio_credito": "5400.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PISO 37 METROS CUADRADOS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "12500.00",
+    "precio_credito": "12500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "AUTO ESTEREO\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "3570.00",
+    "precio_credito": "3570.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "12 laminas de 5 mts c/u\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "14250.00",
+    "precio_credito": "14250.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PANTALLA 43\" WINIA\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "15700.00",
+    "precio_credito": "15700.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESTUFA CON HORNO CROMADA\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "7200.00",
+    "precio_credito": "7200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "COLCHON",
+    "folio": "COL01",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "290.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ESTUFA MESA 4 QUEMADORES\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "3750.00",
+    "precio_credito": "3750.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "VENTANA 2021\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "3400.00",
+    "precio_credito": "3400.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAVADORA ACROS 10 KG 2 TINAS\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "7600.00",
+    "precio_credito": "7600.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAVADORA 13K",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "11.000",
+    "precio_contado": "9200.00",
+    "precio_credito": "9200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO MULTIUSOS NEGRO\t",
+    "folio": "1",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "24.000",
+    "precio_contado": "3100.00",
+    "precio_credito": "3100.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "PEINADOR MOD 2016\t",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "29.000",
+    "precio_contado": "5600.00",
+    "precio_credito": "5600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA EASY",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "296.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA 11 KG",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "298.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6400.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL AMERICAN\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "8500.00",
+    "precio_credito": "8500.00",
+    "enganche": "400.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 2 PTAS 10 PSILVER\t",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "10800.00",
+    "precio_credito": "10800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "MESA DE MAD P/ TV\t",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "800.00",
+    "precio_credito": "800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA C/SECADORA 7 KG 2014\t",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "5300.00",
+    "precio_credito": "5300.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "6 RIELES MONTEN 3X6 1/2\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "8200.00",
+    "precio_credito": "8200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "477.000",
+    "precio_contado": "250.00",
+    "precio_credito": "490.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "10 LAMINA DE 4.27 MTS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10690.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "477.000",
+    "precio_contado": "250.00",
+    "precio_credito": "490.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "PISOS",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "6930.00",
+    "precio_credito": "6930.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "40 cajas de piso\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "25500.00",
+    "precio_credito": "25500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "BANCO",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ARMARIO DE COLOR",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "154.000",
+    "precio_contado": "4700.00",
+    "precio_credito": "4700.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "SILLA DUNA DE COLOR",
+    "folio": "1",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "174.000",
+    "precio_contado": "350.00",
+    "precio_credito": "350.00",
+    "enganche": "20.00"
+  },
+  {
+    "nombre": "CAJONERA INFANTIL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "264.000",
+    "precio_contado": "1990.00",
+    "precio_credito": "1990.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "COMODA PEQUEÑA\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "5900.00",
+    "precio_credito": "5900.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ESQUINERO 5 NIVELES\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "1950.00",
+    "precio_credito": "1950.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ARMARIO CON DETALLE",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4200.00",
+    "precio_credito": "4200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "35 METROS CUADRADOS PISO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "14800.00",
+    "precio_credito": "14800.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "VANITTY INFANTIL\t",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "196.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "3200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "PANTALLA tAURUS 32 \" ZMART\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "50.000",
+    "precio_contado": "9500.00",
+    "precio_credito": "9500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "ROPERO 2\t",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "7200.00",
+    "precio_credito": "7200.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "9 LAMINAS 4.27\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "11800.00",
+    "precio_credito": "11800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR USADO",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "9410.00",
+    "precio_credito": "9410.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "886.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA EASY 13 KG",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "7500.00",
+    "precio_credito": "7500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "LAVADORA 6 KG",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "5500.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "CAJONERA INFANTIL",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "264.000",
+    "precio_contado": "1990.00",
+    "precio_credito": "1990.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "886.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA BLANCA",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "483.000",
+    "precio_contado": "600.00",
+    "precio_credito": "600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COMEDOR BEBE",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1050.00",
+    "precio_credito": "1050.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 9 P",
+    "folio": "SIMN",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "224.000",
+    "precio_contado": "1.00",
+    "precio_credito": "14700.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "BOCINA KAISER",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4600.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DE MADERA",
+    "folio": "1",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "2950.00",
+    "precio_credito": "2950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON CARREIRO\t",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "6000.00",
+    "precio_credito": "6000.00",
+    "enganche": "300.00"
+  },
+  {
+    "nombre": "LAVADORA ACROSS 13 KG",
+    "folio": "LAV02",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "18.000",
+    "precio_contado": "1.00",
+    "precio_credito": "8500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV ZMART 32 LG",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "10500.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV WINEA 43 PULGADAS\t",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "15700.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MICROONDAS MINIA",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "5600.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO NEGRO",
+    "folio": null,
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "150.000",
+    "precio_contado": "2800.00",
+    "precio_credito": "4700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLA CONVEXA",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "1100.00",
+    "precio_credito": "1100.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "JUEGO DE OLLAS 2016",
+    "folio": "1",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "2500.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "REFRIGERADOR WIRPOOL 9\"",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "198.000",
+    "precio_contado": "1.00",
+    "precio_credito": "18500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VANITY PARACHO",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "247.000",
+    "precio_contado": "1.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 11 P",
+    "folio": "1",
+    "id_categoria": 9,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "21550.00",
+    "precio_credito": "21550.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "AIRE ACONDICIONADO",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "199.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10900.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO MAN",
+    "folio": null,
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1919.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "2500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "886.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA",
+    "folio": null,
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "886.000",
+    "precio_contado": "1.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR",
+    "folio": "0",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "198.000",
+    "precio_contado": "1.00",
+    "precio_credito": "1250.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ARMARIO DE COLOR GDE",
+    "folio": "arm6",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "179.000",
+    "precio_contado": "2.00",
+    "precio_credito": "3800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA DE PLASTICO",
+    "folio": "1",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "482.000",
+    "precio_contado": "650.00",
+    "precio_credito": "650.00",
+    "enganche": "30.00"
+  },
+  {
+    "nombre": "LARA PRAC 4 NIV",
+    "folio": "BOD02",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "0.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1850.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "ESQUINERO CHICO",
+    "folio": "BOD03",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "53.000",
+    "precio_contado": "520.00",
+    "precio_credito": "1250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "ESQUINERO CHICO",
+    "folio": "BOD03",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "46.000",
+    "precio_contado": "520.00",
+    "precio_credito": "1250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "SILLA DUNA BISTROT",
+    "folio": "BOD40",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "350.00",
+    "precio_credito": "650.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA",
+    "folio": "BOD10",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 9/P WHIRLPOOL",
+    "folio": "BOD26",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "12.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16KG",
+    "folio": "BOD28",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13KG",
+    "folio": "BOD27",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4200.00",
+    "precio_credito": "9200.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TOCADOR CLAUDIA",
+    "folio": "BOD23",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "2.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BASE CAMA MAT VALDEZ",
+    "folio": "BOD19",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD INFANTIL",
+    "folio": "BOD39",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "30.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD INFANTIL",
+    "folio": "BOD39",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "38.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COLCHON AMERICA",
+    "folio": "BOD41",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY INFANTIL CON LUCES",
+    "folio": "BOD32",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "6.000",
+    "precio_contado": "1550.00",
+    "precio_credito": "3200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "25.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#fdc12d",
+    "stock": "37.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#8600c7",
+    "stock": "33.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ZAPATERO CON ESPEJO",
+    "folio": "BOD37",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "23.000",
+    "precio_contado": "2400.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ZAPATERO CON ESPEJO",
+    "folio": "BOD37",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2400.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ZAPATERO CON ESPEJO",
+    "folio": "BOD37",
+    "id_categoria": 8,
+    "color": "#a3a5a4",
+    "stock": "4.000",
+    "precio_contado": "2400.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ESPEJO DE PARED",
+    "folio": "BOD33",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "3250.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY VALDEZ",
+    "folio": "BOD25",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ESPEJO ILUMINADO",
+    "folio": "BOD34",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "42.000",
+    "precio_contado": "2100.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DUNA PLASTIC/METAL",
+    "folio": "BOD17",
+    "id_categoria": 11,
+    "color": "#a1b00d",
+    "stock": "18.000",
+    "precio_contado": "650.00",
+    "precio_credito": "1200.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "SILLA DUNA PLASTIC/METAL",
+    "folio": "BOD17",
+    "id_categoria": 11,
+    "color": "#ff8927",
+    "stock": "16.000",
+    "precio_contado": "650.00",
+    "precio_credito": "1200.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "MICROONDAS WINIA 1.1",
+    "folio": "BOD18",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CORTADORA  RHINO",
+    "folio": "BOD15",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BASCULA VINS-40",
+    "folio": "BOD13",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1000.00",
+    "precio_credito": "2100.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BASCULA BAR-7",
+    "folio": "BOD14",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "6.000",
+    "precio_contado": "1500.00",
+    "precio_credito": "3000.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR DE PISO NAVIA",
+    "folio": "BOD42",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO 3 NIVEL INFANTIL",
+    "folio": "BOD43",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "2.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO 3 NIVEL INFANTIL",
+    "folio": "BOD43",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "2.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BURRO P/PLANCHAR",
+    "folio": "BOD44",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "980.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV WINIA DE 43 PULG",
+    "folio": "BOD29",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "12.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TOALLERO PARACHO",
+    "folio": "BOD48",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "TOALLERO PARACHO",
+    "folio": "BOD48",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2250.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "BANCA PARACHO",
+    "folio": "BOD49",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1750.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "VITRINA MOD NOLO",
+    "folio": "BOD47",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TINA 700",
+    "folio": "BOD38",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "1.000",
+    "precio_contado": "2200.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA INF. PLASTIC",
+    "folio": "BOD04",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "3.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA INF. PLASTIC",
+    "folio": "BOD04",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "19.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA MOD NOLO",
+    "folio": "BOD50",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6450.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BANCA TIPO BAR MOD NOLO",
+    "folio": "BOD51",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1170.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL SPRING AIR",
+    "folio": "BOD52",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL RESTONIC",
+    "folio": "BOD53",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#8600c7",
+    "stock": "33.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ESTUFA ACROS 4 QUEMADORES",
+    "folio": "BOD57",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "4900.00",
+    "precio_credito": "9500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ESTUFA ACROS 6 QUEMADORES",
+    "folio": "BOD56",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16KG",
+    "folio": "BOD28",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BICICLETA MERCURIO KAIZER R26",
+    "folio": "BOD58",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "5.000",
+    "precio_contado": "4300.00",
+    "precio_credito": "7900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "12.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MICROONDAS GE",
+    "folio": "BOD59",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BASE CAMA MAT VALDEZ",
+    "folio": "BOD19",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV WINIA DE 43 PULG",
+    "folio": "BOD29",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL REEMPACADO",
+    "folio": "BOD60",
+    "id_categoria": 10,
+    "color": "#a3a5a4",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3300.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "-1.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA NEGRO",
+    "folio": "BOD62",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "31.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "4980.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOTE DE 210 LT",
+    "folio": "BOD63",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "0.000",
+    "precio_contado": "850.00",
+    "precio_credito": "1900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ESTUFA ACROS 4 QUEMADORES",
+    "folio": "BOD57",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "14.000",
+    "precio_contado": "4900.00",
+    "precio_credito": "9500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ESTUFA ACROS 6 QUEMADORES",
+    "folio": "BOD56",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13KG",
+    "folio": "BOD27",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4200.00",
+    "precio_credito": "9200.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV WINIA DE 43 PULG",
+    "folio": "BOD29",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV HISENSE 50 PULG",
+    "folio": "BOD64",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA HISENSE 11 KG",
+    "folio": "BOD65",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV TCL 43 PULG",
+    "folio": "BOD66",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV TCL 55 PULG",
+    "folio": "BOD67",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER DE CRISTAL",
+    "folio": "BOD69",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1800.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "TV LG 43 PULG",
+    "folio": "BOD71",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "14.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CONGELADOR AUROS ",
+    "folio": "BOD70",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "14900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "-1.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "NEVERA IGLOO",
+    "folio": "BOD72",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BICICLETA DE DAMA",
+    "folio": "BOD73",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA HISENSE 11 KG",
+    "folio": "BOD65",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA CHICA DE MADERA NOLO",
+    "folio": "BOD74",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1450.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1.50",
+    "folio": "BOD75",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV TCL 50 PULG",
+    "folio": "BOD76",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV TCL 55 PULG",
+    "folio": "BOD67",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV TCL 43 PULG",
+    "folio": "BOD66",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV TCL 50 PULG",
+    "folio": "BOD76",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG 50 PULG",
+    "folio": "BOD77",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CONGELADOR AUROS ",
+    "folio": "BOD70",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "14900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#8600c7",
+    "stock": "33.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "12.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "16.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "25.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#fdc12d",
+    "stock": "37.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD INFANTIL",
+    "folio": "BOD39",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "30.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD INFANTIL",
+    "folio": "BOD39",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "38.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#8600c7",
+    "stock": "33.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA COMEDOR NOLO",
+    "folio": "BOD78",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1600.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "-1.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT HI-WALL 220V",
+    "folio": "BOD79",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV TCL 50 PULG",
+    "folio": "BOD76",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 7P",
+    "folio": "BOD80",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "13500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#1b5ecf",
+    "stock": "1.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL 110V",
+    "folio": "BOD82",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG 43 PULG",
+    "folio": "BOD71",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "14.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 9/P WHIRLPOOL",
+    "folio": "BOD26",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "12.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TINA CHICA",
+    "folio": "BOD83",
+    "id_categoria": 7,
+    "color": "#d3370f",
+    "stock": "0.000",
+    "precio_contado": "1400.00",
+    "precio_credito": "2800.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL SPRING AIR",
+    "folio": "BOD52",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LICUADORA 10 VEL OSTER",
+    "folio": "BOD84",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "CLIMA MINI SPLIT 12 BTUS 110",
+    "folio": "BOD85",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA KOBLENZ REEMPACADO",
+    "folio": "BOD86",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2300.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MINI SPLIT ZMARTECH",
+    "folio": "BOD87",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "HAMACA DE 6 HILOS",
+    "folio": "BOD88",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2200.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL",
+    "folio": "BOD92",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "PISO 20 METROS",
+    "folio": "BOD90",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TRASTERO MOD NOLO",
+    "folio": "BOD89",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8850.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA MAD 1.50 MOD NOLO",
+    "folio": "BOD91",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3050.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO DE COLOR",
+    "folio": "BOD93",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9300.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR HISENSE 9/P",
+    "folio": "BOD94",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAMA COMPLETA BAGGIO",
+    "folio": "BOD95",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 11/P",
+    "folio": "BOD96",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "21500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV TCL 50 PULG",
+    "folio": "BOD76",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL 220V",
+    "folio": "BOD97",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR TFAL PEDESTAL",
+    "folio": "BOD99",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1350.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL RESTONIC",
+    "folio": "BOD53",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TINA 80 LITROS",
+    "folio": "BOD100",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1290.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR 9/P WHIRLPOOL",
+    "folio": "BOD26",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "12.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CONGELADOR AUROS ",
+    "folio": "BOD70",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "14900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA SERVICIO",
+    "folio": "BOD101",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "850.00",
+    "precio_credito": "1800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 MALETA",
+    "folio": "BOD102",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL 220V",
+    "folio": "BOD97",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 10 PIES",
+    "folio": "BOD103",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "18000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TINA 700",
+    "folio": "BOD38",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "1.000",
+    "precio_contado": "2200.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "MINI SPLIT PRIME",
+    "folio": "BOD105",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR DE TECHO VEC",
+    "folio": "BOD106",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1550.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT ZMARTECH",
+    "folio": "BOD87",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 11/P",
+    "folio": "BOD96",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "21500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 9/P",
+    "folio": "BOD107",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA MECEDORA",
+    "folio": "BOD108",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 10 PIES",
+    "folio": "BOD103",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "18000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV HISENSE 50 PULG",
+    "folio": "BOD64",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV HISENSE 50 PULG",
+    "folio": "BOD64",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIDEA 11KG",
+    "folio": "BOD110",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "9000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "FRIGOBAR HISENSE",
+    "folio": "BOD111",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA EASY REDONDA 6KG",
+    "folio": "BOD112",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7800.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD 10 CAJON",
+    "folio": "BOD113",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "-1.000",
+    "precio_contado": "3250.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SECADORA CENTRIFUGADO KOBLENZ",
+    "folio": "BOD114",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV HISENSE 50 PULG",
+    "folio": "BOD64",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MICROONDAS MABE 1.1",
+    "folio": "BOD115",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1.50 NOLO",
+    "folio": "BOD116",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BICICLETA BLACK PANTER R26",
+    "folio": "BOD117",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BICICLETA BLACK PANTER R26",
+    "folio": "BOD117",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TINA 350 LITROS",
+    "folio": "BOD118",
+    "id_categoria": 11,
+    "color": "#ff8927",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2800.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "9.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "Sombrilla de Playa Test JC",
+    "folio": null,
+    "id_categoria": 12,
+    "color": "#1b5ecf",
+    "stock": "88.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "2000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA MADERA 1.20 M",
+    "folio": "BOD08",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "3300.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TINA 700",
+    "folio": "BOD38",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "1.000",
+    "precio_contado": "2200.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BURRO P/PLANCHAR",
+    "folio": "BOD44",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "980.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TINA 80 LITROS",
+    "folio": "BOD100",
+    "id_categoria": 11,
+    "color": "#d3370f",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1290.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "VANITY MOD NOLO",
+    "folio": "BOD119",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA MAD 1.80 MON NOLO",
+    "folio": "BOD120",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "JUEGO DE BAÑO",
+    "folio": "BOD122",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 80CM NOLO",
+    "folio": "BOD121",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "2050.00",
+    "enganche": "150.00"
+  },
+  {
+    "nombre": "COMODA CON ESPEJO NOLO",
+    "folio": "BOD123",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VITRINA VALDEZ",
+    "folio": "BOD24",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5900.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIRAGE",
+    "folio": "BOD124",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VANITY VALDEZ",
+    "folio": "BOD25",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG 55 PULG",
+    "folio": "BOD125",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 9/P",
+    "folio": "BOD107",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "FRIGOBAR HISENSE 3 PIES",
+    "folio": "BOD126",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7890.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD NOLO",
+    "folio": "BOD127",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "7500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "SILLA MECEDORA",
+    "folio": "BOD108",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY MOD NOLO",
+    "folio": "BOD119",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VANITY MOD NOLO",
+    "folio": "BOD119",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG 55 PULG",
+    "folio": "BOD125",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG 43 PULG",
+    "folio": "BOD71",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "14.000",
+    "precio_contado": "0.00",
+    "precio_credito": "15700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1.20 CELSO",
+    "folio": "BOD128",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "1600.00",
+    "precio_credito": "3300.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DE MADERA 1.50 CELSO",
+    "folio": "BOD129",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "1750.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "6 LAMINAS 6.10 M",
+    "folio": "BOD130",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "6400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "7 LAMINAS",
+    "folio": "BOD131",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "12.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "9.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MADERA MOD NOLO",
+    "folio": "BOD132",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 10 PIES",
+    "folio": "BOD103",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "18000.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIDEA 110V",
+    "folio": "BOD98",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV HISENSE 32 PULG",
+    "folio": "BOD133",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV HISENSE 50 PULG",
+    "folio": "BOD64",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "16900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "FRIGOBAR MIDEA 4 PIES",
+    "folio": "BOD134",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "7900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "25.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#8600c7",
+    "stock": "33.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#fdc12d",
+    "stock": "37.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#f05da4",
+    "stock": "12.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COMODA INFANTIL",
+    "folio": "BOD36",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "16.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY ADUL PARACHO",
+    "folio": "BOD31",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "15.000",
+    "precio_contado": "3200.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 13KG",
+    "folio": "BOD27",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "19.000",
+    "precio_contado": "4200.00",
+    "precio_credito": "9200.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16KG",
+    "folio": "BOD28",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "TV LG 55 PULG",
+    "folio": "BOD125",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY MOD NOLO CON CRISTAL",
+    "folio": "BOD135",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "Articulo Ejemplo Erik",
+    "folio": "ejem1",
+    "id_categoria": 10,
+    "color": "#ffffff",
+    "stock": "2.000",
+    "precio_contado": "30.00",
+    "precio_credito": "50.00",
+    "enganche": "10.00"
+  },
+  {
+    "nombre": "articulo ejemplo pona",
+    "folio": "EJEMPLO0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "articulo ejemplo pona",
+    "folio": "EJEMPLO0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV HISENSE DE 65 PULGADAS",
+    "folio": "BOD136",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "20900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "producto 1 ejemplo",
+    "folio": "ejemplo 1",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "5.000",
+    "precio_contado": "200.00",
+    "precio_credito": "400.00",
+    "enganche": "50.00"
+  },
+  {
+    "nombre": "producto 2 ejemplo",
+    "folio": "ejemplo 2",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "5.000",
+    "precio_contado": "300.00",
+    "precio_credito": "600.00",
+    "enganche": "80.00"
+  },
+  {
+    "nombre": "producto 3 ejemplo",
+    "folio": "ejemplo 3",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "5.000",
+    "precio_contado": "500.00",
+    "precio_credito": "1000.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "articulo ejemplo pona",
+    "folio": "EJEMPLO0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 11/P",
+    "folio": "BOD138",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "9.000",
+    "precio_contado": "0.00",
+    "precio_credito": "21550.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 14/P",
+    "folio": "BOD141",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "24500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "PLANCHA MARCA OSTER",
+    "folio": "BOD140",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "950.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "BURRO P/PLANCHAR",
+    "folio": "BOD44",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "-1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "980.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MICROONDAS MABE 1.1",
+    "folio": "BOD115",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BOCINA KSR 50 W",
+    "folio": "BOD54",
+    "id_categoria": 9,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "4600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MINI SPLIT DAEWOO",
+    "folio": "BOD139",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA SERVICIO",
+    "folio": "BOD101",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "850.00",
+    "precio_credito": "1800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "articulo ejemplo pona",
+    "folio": "EJEMPLO0001",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "4.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG 55 PULG",
+    "folio": "BOD125",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "LAVADORA MIRAGE 16KG",
+    "folio": "BOD28",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "28.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11700.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "MESA DUNA SERVICIO",
+    "folio": "BOD101",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "850.00",
+    "precio_credito": "1800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VANITY MOD NOLO CON CRISTAL",
+    "folio": "BOD135",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MICROONDAS WINIA 1.1",
+    "folio": "BOD18",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD 300",
+    "folio": "BOD55",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "5500.00",
+    "precio_credito": "9950.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "SILLA MECEDORA",
+    "folio": "BOD108",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BASE CAMA MAT VALDEZ",
+    "folio": "BOD19",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "COLCHON MATRIMONIAL RESTONIC",
+    "folio": "BOD53",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "8900.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA MAD 10 CAJON",
+    "folio": "BOD113",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "-1.000",
+    "precio_contado": "3250.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#1b5ecf",
+    "stock": "1.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "9.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DUNA BISTROT",
+    "folio": "BOD40",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "16.000",
+    "precio_contado": "350.00",
+    "precio_credito": "650.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG DE 32 PULG",
+    "folio": "BOD30",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "56.000",
+    "precio_contado": "0.00",
+    "precio_credito": "10500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MICROONDAS WINIA 1.1",
+    "folio": "BOD18",
+    "id_categoria": 11,
+    "color": "#a3a5a4",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA NEGRO",
+    "folio": "BOD62",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "31.000",
+    "precio_contado": "2500.00",
+    "precio_credito": "4980.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA MECEDORA",
+    "folio": "BOD108",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "3500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#1b5ecf",
+    "stock": "1.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "REFRIGERADOR ACROS 11/P",
+    "folio": "BOD96",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "0.00",
+    "precio_credito": "21500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA MAD INFANTIL",
+    "folio": "BOD39",
+    "id_categoria": 8,
+    "color": "#1b5ecf",
+    "stock": "30.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "10.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "CAJONERA INF. PLASTIC",
+    "folio": "BOD04",
+    "id_categoria": 7,
+    "color": "#1b5ecf",
+    "stock": "3.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA INF. PLASTIC",
+    "folio": "BOD04",
+    "id_categoria": 7,
+    "color": "#f05da4",
+    "stock": "19.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA SERVICIO",
+    "folio": "BOD101",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "850.00",
+    "precio_credito": "1800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 7P",
+    "folio": "BOD80",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "13500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL 220V",
+    "folio": "BOD97",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIRAGE",
+    "folio": "BOD124",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "1.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "ROPERO MOD NOLO",
+    "folio": "BOD22",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "5200.00",
+    "precio_credito": "9600.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA P/ESTUFA NOLO",
+    "folio": "BOD142",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "1650.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.80 M",
+    "folio": "BOD05",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "27.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "TV LG 55 PULG",
+    "folio": "BOD125",
+    "id_categoria": 11,
+    "color": "#000000",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "19500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MABE 14/P",
+    "folio": "BOD141",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "3.000",
+    "precio_contado": "0.00",
+    "precio_credito": "24500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "REFRIGERADOR MIDEA 7P",
+    "folio": "BOD80",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "13500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT MIRAGE",
+    "folio": "BOD124",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "11500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "MINI SPLIT TCL 220V",
+    "folio": "BOD97",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "12500.00",
+    "enganche": "500.00"
+  },
+  {
+    "nombre": "CAJONERA DE MADERA",
+    "folio": "BOD35",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4900.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA MAD 2M",
+    "folio": "BOD143",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "1.000",
+    "precio_contado": "2250.00",
+    "precio_credito": "4500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ROPERITO COMBINADO ",
+    "folio": "BOD46",
+    "id_categoria": 7,
+    "color": "#934409",
+    "stock": "0.000",
+    "precio_contado": "1850.00",
+    "precio_credito": "3800.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "BASE CAMA MAT VALDEZ",
+    "folio": "BOD19",
+    "id_categoria": 8,
+    "color": "#934409",
+    "stock": "4.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "SILLA DE MADERA CELSO",
+    "folio": "BOD104",
+    "id_categoria": 8,
+    "color": "#ffffff",
+    "stock": "85.000",
+    "precio_contado": "270.00",
+    "precio_credito": "575.00",
+    "enganche": "25.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN PEDESTAL",
+    "folio": "BOD61",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "49.000",
+    "precio_contado": "1700.00",
+    "precio_credito": "3400.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "VENTILADOR MAN DE PISO",
+    "folio": "BOD12",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "40.000",
+    "precio_contado": "1200.00",
+    "precio_credito": "2600.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MICROONDAS MABE 1.1",
+    "folio": "BOD115",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "0.000",
+    "precio_contado": "0.00",
+    "precio_credito": "5950.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#1b5ecf",
+    "stock": "1.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD 10 CAJON",
+    "folio": "BOD113",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "-1.000",
+    "precio_contado": "3250.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "CAJONERA MAD 10 CAJON",
+    "folio": "BOD113",
+    "id_categoria": 11,
+    "color": "#934409",
+    "stock": "-1.000",
+    "precio_contado": "3250.00",
+    "precio_credito": "6500.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "LICUADORA OSTER 10 VEL",
+    "folio": "BOD45",
+    "id_categoria": 11,
+    "color": "#ffffff",
+    "stock": "12.000",
+    "precio_contado": "800.00",
+    "precio_credito": "1700.00",
+    "enganche": "100.00"
+  },
+  {
+    "nombre": "MESA DUNA 1.20 M",
+    "folio": "BOD06",
+    "id_categoria": 7,
+    "color": "#ffffff",
+    "stock": "25.000",
+    "precio_contado": "1250.00",
+    "precio_credito": "2700.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#1b5ecf",
+    "stock": "1.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  },
+  {
+    "nombre": "ARMARIO DUNA COLOR",
+    "folio": "BOD81",
+    "id_categoria": 11,
+    "color": "#f05da4",
+    "stock": "3.000",
+    "precio_contado": "2600.00",
+    "precio_credito": "5200.00",
+    "enganche": "200.00"
+  }
+]
